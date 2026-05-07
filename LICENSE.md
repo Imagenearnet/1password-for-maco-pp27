@@ -1,4 +1,4 @@
-
+professional 1Password for macOS Helper | vulnerability-scanner + secure-backup offers the most advanced 1Password for macOS helper, with vulnerability-scanner and secure-backup.
 
 
 
